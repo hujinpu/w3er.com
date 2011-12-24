@@ -1,4 +1,4 @@
-#\-s thin -p 9292 -D -P rack.pid -E deployment
+#\-s thin -p 9999 -D -P rack.pid -E deployment
 
 ROOT = ::File.dirname(__FILE__)
 
