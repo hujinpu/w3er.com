@@ -9,3 +9,4 @@ public/uploads/*
 logs/*
 *.out
 *.pid
+.DS_Store
